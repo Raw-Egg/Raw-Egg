@@ -56,6 +56,6 @@ A physics-based projectile-motion simulation with air resistance, paired with a 
 ## 📫 Contact
 
 - LinkedIn: Add your LinkedIn link here
-- Email: Add a professional email here
+- Email: purswani.divy@gmail.com
 
 > I use GitHub as a record of projects, experiments, simulations, and engineering work in progress.
